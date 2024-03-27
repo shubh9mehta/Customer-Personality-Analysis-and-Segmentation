@@ -26,15 +26,6 @@ In this project, I embark on an analytical expedition to segment customers based
 - Achieved a silhouette score of approximately 54, indicating a moderately strong cluster structure.
 - Enabled the business to target specific customer segments, enhancing the efficiency of marketing strategies and aligning product offerings with customer needs.
 
-## Running the Project 🚀
-
-The Jupyter Notebook (`Customer Segmentation.ipynb`) contains all the code and analyses. Here’s how to get it running:
-
-1. Clone this repository to your local machine.
-2. Ensure you have Jupyter Notebook installed, or use [Google Colab](https://colab.research.google.com/) for a cloud-based option.
-3. Install all required dependencies by running `pip install -r requirements.txt` (a requirements file should be created if not existing).
-4. Open `Customer Segmentation.ipynb` in Jupyter Notebook or Colab and run the cells sequentially.
-
 ## Connect With Me 🤝
 
 I am passionate about leveraging data to unlock insights and drive business strategy. If you find this project intriguing or have any questions, suggestions, or opportunities for collaboration, please feel free to reach out!
